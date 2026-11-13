@@ -17,8 +17,8 @@
 
 - [Publishing policy](docs/publishing-policy.md)
 - [Synthetic BU03 demo product](examples/BU03-DEMO/products/demo-product/README.md)
-- [Atlas-Harness memory domain design](https://github.com/sergiomonteiro-atlas/Atlas-Harness/blob/main/docs/memory-knowledge.md)
-- [Atlas-Harness architecture ADR](https://github.com/sergiomonteiro-atlas/Atlas-Harness/blob/main/docs/adr/0001-atlas-harness-architecture.md)
+- [Atlas-Harness memory domain design](https://github.com/AtlasHub-Si/Atlas-Harness/blob/main/docs/memory-knowledge.md)
+- [Atlas-Harness architecture ADR](https://github.com/AtlasHub-Si/Atlas-Harness/blob/main/docs/adr/0001-atlas-harness-architecture.md)
 
 ## Knowledge life cycle
 
@@ -29,3 +29,8 @@ Obsidian is an **optional authoring interface**. We do not ship Obsidian's propr
 ## Initial milestone
 
 A restricted Atlas-Agent can retrieve and cite one approved fictional product FAQ through Atlas-Memory-Fabric. The runtime receives the allowed document version but cannot edit it, view other BU knowledge, or initiate real customer communications.
+
+
+## Ownership and support
+
+This repository contains original Atlas project materials and synthetic examples. The limited rights-reservation notice in [LICENSE](LICENSE) applies only to actually Atlas-owned original contributions. Company references: [LEGAL.md](LEGAL.md). **Legal:** legal@Atlas-SI.com · **Support:** support@AtlasHub.SI. **Curator:** [SergioMonteiro-Atlas](https://github.com/sergiomonteiro-atlas).
