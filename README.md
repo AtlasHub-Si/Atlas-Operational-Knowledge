@@ -1,5 +1,7 @@
 # Atlas Operational Knowledge — Cortex Sources
 
+> **Atlas Intelligence integration.** approved operational procedures remain here; generic research, ideas and dossiers belong in Atlas-Intelligence. Link approved versions rather than duplicating content.
+
 **Portfolio status:** Supporting knowledge; scope review.
 
 Operational documentation and reusable knowledge sources feed AtlasCortex with provenance and scoped access. Preserve authoritative sources and avoid another competing knowledge store.
