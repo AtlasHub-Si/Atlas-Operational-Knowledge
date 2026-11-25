@@ -1,3 +1,13 @@
+# Atlas Operational Knowledge — Cortex Sources
+
+**Portfolio status:** Supporting knowledge; scope review.
+
+Operational documentation and reusable knowledge sources feed AtlasCortex with provenance and scoped access. Preserve authoritative sources and avoid another competing knowledge store.
+
+> Existing documentation is retained below for provenance. See the [AtlasHub institutional profile](https://github.com/AtlasHub-Si) for current product scope.
+
+---
+
 # Atlas-Operational-Knowledge
 
 **Operational knowledge for the Atlas-Harness ecosystem — controlled, versioned and agent-readable.**
@@ -34,3 +44,7 @@ A restricted Atlas-Agent can retrieve and cite one approved fictional product FA
 ## Ownership and support
 
 This repository contains original Atlas project materials and synthetic examples. The limited rights-reservation notice in [LICENSE](LICENSE) applies only to actually Atlas-owned original contributions. Company references: [LEGAL.md](LEGAL.md). **Legal:** legal@Atlas-SI.com · **Support:** support@AtlasHub.SI. **Curator:** [SergioMonteiro-Atlas](https://github.com/sergiomonteiro-atlas).
+
+
+---
+[AtlasHub.SI](https://atlashub.si) · London · Lisbon · Goiânia
